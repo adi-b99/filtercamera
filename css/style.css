@@ -44,8 +44,8 @@ body {
 
 .select {
   height: 40px;
-  background: #333;
-  color: #fff;
+  background: #ffffff;
+  color: rgb(218, 50, 50);
   padding: 3px;
   width: 100%;
   border: 1px #666 solid;
@@ -60,7 +60,7 @@ body {
 
 #photos {
   display: grid;
-  grid-template-columns: repeat(3, 1fr);
+  
   grid-gap: 10px;
 }
 
@@ -70,5 +70,5 @@ body {
 }
 
 #canvas {
-  display: none;
+ display: none;
 }

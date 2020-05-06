@@ -1,4 +1,5 @@
-// Global Vars
+// Global Variables
+//var
 let width = 500,
     height = 0,
     filter = 'none',
